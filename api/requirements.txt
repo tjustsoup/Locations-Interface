@@ -1,0 +1,35 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+# Azure
+azure-data-tables
+azure-functions
+azure-identity
+azure-keyvault-secrets
+
+# Database
+sqlalchemy
+pyodbc
+
+# GraphQL
+graphene
+graphene_sqlalchemy
+
+# Flask
+Flask
+Flask-SQLAlchemy
+Flask-Session
+Flask-SQLAlchemy-Session
+Flask-Restless-NG
+Flask-GraphQL
+
+# Identity/Authenticity/Authorization
+pyjwt
+py-abac
+py-abac[sql]
+
+# Other
+pandas
+shapely
+geojson

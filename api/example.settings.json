@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "flask_secret_key": "ybjcXK2p69S8S5mZ9vjdPTKS7wf^vHcrr!j*NDR%TV6rB@S@Xd7C$Sh5xNKMJLy^",
+    "flask_sql_instance": "demosql",
+    "flask_sql_database": "demodb",
+    "sql_instance_demosql": "host.name.tld",
+    "sql_username_demosql": "asdfg",
+    "sql_password_demosql": "********"
+  }
+}
